@@ -1,0 +1,4 @@
+1. 'click' listener on elem1 during bubbling phase
+2. 'keypress' listener on document during bubbling phase
+3. 'keypress' listener on document during bubbling phase
+4. 'click' listener on elem1 during bubbling phase

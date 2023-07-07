@@ -1,0 +1,2 @@
+1. elem1 event listener firing on the capture phase
+2. elem1 event listener firing on the bubbling phase

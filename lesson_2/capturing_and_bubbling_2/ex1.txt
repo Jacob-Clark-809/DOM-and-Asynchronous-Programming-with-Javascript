@@ -1,0 +1,2 @@
+1. First elem1 event listener firing during the bubbling phase
+2. Second elem1 event listener firing during the bubbling phase
